@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krishna77ag
-- 🌱 I’m currently learning core java and web development....
+- 🌱 I'm a Java Developer
 - 📫 How to reach me ... email- krishnabansal2277@gmail.com
 
 <!---
